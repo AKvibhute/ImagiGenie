@@ -1,0 +1,7 @@
+transformers
+torch
+datasets
+sentencepiece
+streamlit
+Pillow
+kaggle
